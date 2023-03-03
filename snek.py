@@ -1,4 +1,3 @@
-#diff between tracer and speed
 import turtle
 import time
 import random
